@@ -44,7 +44,13 @@ This repository contains a Streamlit application that interacts with Cloudinary 
    CLOUDINARY_URL=cloudinary://your_cloudinary_key:your_cloudinary_secret@your_cloudinary_cloud_name
    ```
 
-5. Run the application:
+5. Add your photos:
+
+    ```
+    Add your photos to "photos" file manually.
+    ```
+
+7. Run the application:
 
    ```
    streamlit run app.py
