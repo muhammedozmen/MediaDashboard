@@ -22,7 +22,6 @@ This repository contains a Streamlit application that interacts with Cloudinary 
    ```
    git clone https://github.com/muhammedozmen/MediaDashboard.git
    cd MediaDashboard
-
    ```
 
 2. Create and activate a virtual environment:
@@ -30,7 +29,6 @@ This repository contains a Streamlit application that interacts with Cloudinary 
    ```
    python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
    ```
 
 3. Install the required packages:
