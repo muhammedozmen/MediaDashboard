@@ -39,7 +39,7 @@ This repository contains a Streamlit application that interacts with Cloudinary 
 
 4. Set up your environment variables:
    
-   Firstly create a Cloudinary account. After that create a .env file in the project root directory and add your Cloudinary URL:
+   Firstly create a Cloudinary account. After that create a ".env" file in the project root directory and add your Cloudinary URL:
    ```
    CLOUDINARY_URL=cloudinary://your_cloudinary_key:your_cloudinary_secret@your_cloudinary_cloud_name
    ```
