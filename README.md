@@ -50,7 +50,7 @@ This repository contains a Streamlit application that interacts with Cloudinary 
     Add your photos to "photos" file manually.
     ```
 
-7. Run the application:
+6. Run the application:
 
    ```
    streamlit run app.py
